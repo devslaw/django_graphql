@@ -3,7 +3,7 @@ Django/GraphQL api
 
 Create virtualenv
 
-    cd /var/envs && mkvirtualenv --python=/usr/bin/python3 django_rest_example
+    cd /var/envs && mkvirtualenv --python=/usr/bin/python3 django_graphql_example
 
 Install requirements for a project.
 
